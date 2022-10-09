@@ -1,0 +1,27 @@
+.frequently{
+    font-weight: 700;
+    font-size: 24px;
+}
+
+
+
+.card-body-faq{
+    justify-content: space-between;
+    align-items: center;
+    height: 56px;
+}
+
+.card{
+    justify-content: center;
+}
+
+
+.description_faq{
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.image_FAQ{
+    width: 24px;
+    height: 24px;
+}

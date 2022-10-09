@@ -1,0 +1,23 @@
+.footer{
+    margin-top: 8%;
+    margin-bottom: 5%;
+}
+
+.icon{
+    margin-right: 16px;
+}
+
+.address{
+    margin-right: 50px;
+    font-weight: bold;
+}
+
+.connect,.copyright{
+    font-weight: bold;
+}
+
+.logo_binar{
+    width: 100px;
+    height: 34px;
+    background-color: #0D28A6;
+}

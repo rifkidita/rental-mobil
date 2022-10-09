@@ -1,0 +1,29 @@
+#CTABanner{
+    background-color: #0D28A6;
+    border-radius: 13px;
+    font-size: 36px;
+    margin-bottom: 8%;
+    margin-top: 8%;
+}
+
+.title{
+    margin-top: 64px;
+    margin-bottom: 16px;
+    color: white;
+}
+
+
+.description-CTA{
+    color: white;
+    width: 55%;
+    font-size: 14px;
+    text-align: center;
+}
+
+.btn_sewa_cta{
+    color: white;
+    background-color: #5CB85F;
+    margin-top: 52px;
+    margin-bottom: 64px;
+    font-weight: bold;
+}
